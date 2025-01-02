@@ -3,3 +3,6 @@
     justify-content: space-between;
 }
 
+.header ul {
+    list-style-type: none;
+}
