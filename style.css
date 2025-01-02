@@ -41,10 +41,17 @@ body {
 .top {
     display: flex;
     background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .top h1 {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+}
+
+.top .text,
+.top img {
+    flex: 1;
 }
