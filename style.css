@@ -7,3 +7,9 @@
     list-style-type: none;
     display: flex;
 }
+
+.header h2,
+.header ul {
+    margin: 0;
+    padding: 0;
+}
