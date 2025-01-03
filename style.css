@@ -56,3 +56,8 @@ body {
 .top img {
     flex: 1;
 }
+
+.top h1,
+.top p {
+    margin: 0;
+}
