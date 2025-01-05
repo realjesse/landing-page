@@ -92,3 +92,7 @@ body {
 .info .square {
     border: solid #3882F6;
 }
+
+.info .item {
+    width: 150px;
+}
