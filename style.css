@@ -83,3 +83,7 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.info .info-row {
+    display: flex;
+}
