@@ -88,3 +88,7 @@ body {
 .info .info-row {
     display: flex;
 }
+
+.info .square {
+    border: solid #3882F6;
+}
