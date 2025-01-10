@@ -109,3 +109,11 @@ body {
     font-weight: 900;
     color: #1F2937;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 5% 20%;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
