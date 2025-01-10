@@ -134,3 +134,8 @@ body {
     display: flex;
     justify-content: space-around;
 }
+
+.sign-up p,
+.sign-up h2 {
+    margin: 0;
+}
