@@ -116,4 +116,6 @@ body {
     font-size: 36px;
     color: #1F2937;
     font-style: italic;
+    display: flex;
+    flex-direction: column;
 }
