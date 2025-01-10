@@ -133,6 +133,7 @@ body {
     border-radius: 10px;
     display: flex;
     justify-content: space-around;
+    color: #F9FAF8;
 }
 
 .sign-up p,
