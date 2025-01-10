@@ -93,11 +93,11 @@ body {
 
 .info .square {
     border: solid #3882F6;
-    width: 100px;
-    height: 100px;
+    width: 115px;
+    height: 115px;
     border-radius: 10%;
 }
 
 .info .item {
-    width: 100px;
+    width: 115px;
 }
