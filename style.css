@@ -141,6 +141,14 @@ body {
     margin: 0;
 }
 
+.sign-up button {
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    border-radius: 10px;
+    color: #F9FAF8;
+    padding: 0px 20px;
+}
+
 .footer {
     text-align: center;
     background-color: #1F2937;
